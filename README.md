@@ -11,7 +11,7 @@ Deux approches sont possibles : **dans le cloud avec GitHub Codespaces** (rien �
 
 ### GitHub Codespaces
 
-Evite tout problème de configuration locale (mais demande un compte Github + de ne pas avoir épuisé sont "quota" Codespace).
+Evite tout problème de configuration locale (mais demande un compte Github + de ne pas avoir épuisé son "quota" Codespace).
 
 > [!TIP]
 > Pour utiliser votre propre quota de temps Codespace, il suffit de forker le repository, puis lancer **Codespace** via le bouton `<> Code` vert
